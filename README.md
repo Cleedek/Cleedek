@@ -10,4 +10,4 @@ More at [cleedek.com](https://cleedek.com).
 
 If something here saves you time, you can support it:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K1I42ACK0E)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cleedek)
